@@ -37,25 +37,9 @@ The dataset contains retail sales transactions with the following information:
 - Cost of Goods Sold (COGS)
 - Total Sale
 
-Each row represents one sales transaction.
 
 ---
 
-
-## 📚 SQL Concepts Used
-
-- DDL (CREATE TABLE)
-- Aggregate Functions
-- GROUP BY
-- ORDER BY
-- CASE WHEN
-- Window Functions (ROW_NUMBER)
-- Common Table Expressions (CTE)
-- Date Functions
-- Data Validation
-- Data Cleaning
-
----
 
 ## 🔄 Project Workflow
 
